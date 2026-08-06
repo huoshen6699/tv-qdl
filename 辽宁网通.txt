@@ -217,7 +217,7 @@ http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227632/index.m
 #EXTINF:-1 tvg-id="1" tvg-name="梨园频道" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/梨园频道.png" group-title="娱乐频道",梨园频道
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="国学频道"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/国学频道.png" group-title="娱乐频道",国学频道
-http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227596//index.m3u8
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227653/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="书画频道"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/书画频道.png" group-title="娱乐频道",书画频道
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227650/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="家庭理财" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/家庭理财.png" group-title="娱乐频道",家庭理财
@@ -254,12 +254,70 @@ http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227717/index.m
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227659/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="盘锦新闻综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/盘锦新闻综合.png" group-title="辽宁频道",盘锦新闻综合
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227751/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="抚顺综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/抚顺综合.png" group-title="辽宁频道",抚顺综合
-http://b.jun1985.cn:90/TVOD/fsfb.php?id=fszh
-#EXTINF:-1 tvg-id="1" tvg-name="抚顺教育" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/抚顺教育.png" group-title="辽宁频道",抚顺教育
-http://b.jun1985.cn:90/TVOD/fsfb.php?id=fsjy
 #EXTINF:-1 tvg-id="1" tvg-name="庄河综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/庄河综合.png" group-title="辽宁频道",庄河综合
 rtmp://zhtvzb.lnyun.com.cn/zhrm2/tvzb2?auth_key=1864483200-0-0-822416c7abee6df8a8210bca001fe29c
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",惊天魔盗团3（4K至臻MAX）
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283848716/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 爆水管（4K至臻MAX）
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283182803/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 熊猫计划之部落奇遇记（4K至臻MAX）
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283566518/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",森中有林
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283939859/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 镖人
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283894660/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",门牙
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/284033642/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",10间敢死队
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/284052735/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",拯救大兵瑞恩[4K超清]
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/277811090/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",创:战神
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283040548/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 庇护之地
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/283331181/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 神雕侠侣:问世间
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282218162/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 长安的荔枝
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282309282/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 日掛中天
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282691918/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影", 雷霆营救
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282871776/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",刺杀小说家
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282765789/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",731
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282808880/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",既性谋杀
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282873224/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",浪浪人生
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282898862/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",志愿军
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282888797/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",编号17
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281858274/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",谍网追凶
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281716320/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",和夫人
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281868305/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",斗罗大陆剧场版剑道尘心
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281839624/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",雷霆特工队
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281940320/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",终极拯救
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281988374/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",猫猫的奇幻漂流
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281974290/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",大哥大
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282050835/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",绑架毛乎乎
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282121689/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",热烈
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282036513/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",哪吒之魔童闹海
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/281965600/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",酱园弄·悬案
+http://hwottcdn1.ln.chinamobile.com/34/16/88888888/282101554/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",暮光之城:新月
 http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281154967/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",西虹市首富
@@ -561,16 +619,4 @@ http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636283/index.
 #EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传43
 http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636268/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/重温经典.png" group-title="影视频道",重温经典
-http://b.jun1985.cn:90/php/cwjd.php
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/重温经典.png" group-title="影视频道",重温经典
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cwjd
-#EXTINF:-1 tvg-id="1" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/香港卫视.png" group-title="卫视频道",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰中文.png" group-title="卫视频道",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰中文.png" group-title="卫视频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰中文.png" group-title="卫视频道",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰香港.png" group-title="卫视频道",凤凰香港
-https://cdn6.163189.xyz/163189/fhhk
+https://ott.lnitv.cn/CBN.php?id=30167
