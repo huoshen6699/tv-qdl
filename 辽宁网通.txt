@@ -1,0 +1,586 @@
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml","https://epg.zbds.top"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV1.png" group-title="央视频道",CCTV1
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV2.png" group-title="央视频道",CCTV2
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV3.png" group-title="央视频道",CCTV3
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV4.png" group-title="央视频道",CCTV4
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV5.png" group-title="央视频道",CCTV5
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV6.png" group-title="央视频道",CCTV6
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227428/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV7.png" group-title="央视频道",CCTV7
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV8.png" group-title="央视频道",CCTV8
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227431/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV9.png" group-title="央视频道",CCTV9
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV10.png" group-title="央视频道",CCTV10
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV11.png" group-title="央视频道",CCTV11
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227443/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV12.png" group-title="央视频道",CCTV12
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV13.png" group-title="央视频道",CCTV13
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227446/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV14.png" group-title="央视频道",CCTV14
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV15.png" group-title="央视频道",CCTV15
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227565/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV16.png" group-title="央视频道",CCTV16
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV17.png" group-title="央视频道",CCTV17
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV5加.png" group-title="央视频道",CCTV5+
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV4K.png" group-title="央视频道",CCTV-4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV16-4K.png" group-title="央视频道",CCTV16-4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="电视指南" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/电视指南.png" group-title="央视频道",电视指南
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227748/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="第一剧场" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/第一剧场.png" group-title="央视频道",第一剧场
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227730/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="风云剧场" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/风云剧场.png" group-title="央视频道",风云剧场
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227736/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227733/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="风云音乐" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/风云音乐.png" group-title="央视频道",风云音乐
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227641/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="风云足球" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/风云足球.png" group-title="央视频道",风云足球
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227638/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="央视台球" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/央视台球.png" group-title="央视频道",央视台球
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227711/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高尔夫网球.png" group-title="央视频道",高尔夫网球
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="世界地理" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/世界地理.png" group-title="央视频道",世界地理
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227739/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="兵器科技" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/兵器科技.png" group-title="央视频道",兵器科技
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227647/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="央视文化精品" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/文化精品.png" group-title="央视频道",文化精品
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227644/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="女性时尚" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/女性时尚.png" group-title="央视频道",女性时尚
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227742/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="老故事" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/老故事.png" group-title="央视频道",老故事
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227745/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CETV1" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CETV1.png" group-title="央视频道",CETV1
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227593/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CETV2" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CETV2.png" group-title="央视频道",CETV2
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CETV3" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CETV3.png" group-title="央视频道",CETV3
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CETV4" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CETV4.png" group-title="央视频道",CETV4
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/北京卫视4K.png" group-title="卫视频道",北京卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227629/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/广东卫视4K.png" group-title="卫视频道",广东卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227712/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227626/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/东方卫视4K.png" group-title="卫视频道",东方卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227621/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227624/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226700/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226160/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/东方卫视.png" group-title="卫视频道",东方卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226187/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/北京卫视.png" group-title="卫视频道",北京卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226666/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/广东卫视.png" group-title="卫视频道",广东卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226686/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227583/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/广西卫视.png" group-title="卫视频道",广西卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227577/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/河北卫视.png" group-title="卫视频道",河北卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227592/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/江西卫视.png" group-title="卫视频道",江西卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227598/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/云南卫视.png" group-title="卫视频道",云南卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/东南卫视.png" group-title="卫视频道",东南卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227467/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/山东卫视.png" group-title="卫视频道",山东卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227573/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/天津卫视.png" group-title="卫视频道",天津卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227582/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227580/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227586/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/四川卫视.png" group-title="卫视频道",四川卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227579/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227488/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/河南卫视.png" group-title="卫视频道",河南卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227595/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227564/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/海南卫视.png" group-title="卫视频道",海南卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227601/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227604/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227464/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227494/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226166/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/青海卫视.png" group-title="卫视频道",青海卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226153/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227591/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="山西卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/山西卫视.png" group-title="卫视频道",山西卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227585/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="延边卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/延边卫视.png" group-title="卫视频道",延边卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227607/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227610/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/农林卫视.png" group-title="卫视频道",农林卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227497/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="康巴卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CHC家庭影院.png" group-title="影视频道",家庭影院
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CHC动作电影.png" group-title="影视频道",动作电影
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CHC影迷电影.png" group-title="影视频道",影迷电影
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV6.png" group-title="影视频道",央视电影
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227428/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV8.png" group-title="影视频道",央视剧场
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227431/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="第一剧场" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/第一剧场.png" group-title="影视频道",第一剧场
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227730/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="风云剧场" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/风云剧场.png" group-title="影视频道",风云剧场
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227736/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/怀旧剧场.png" group-title="影视频道",怀旧剧场http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227733/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227669/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="优漫卡通" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227676/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227672//index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="新动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/新动漫.png" group-title="少儿频道",新动漫
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV14.png" group-title="少儿频道",央视少儿
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227452/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="至臻视界" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/至臻视界.png" group-title="娱乐频道",至臻视界
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/金鹰纪实.png" group-title="娱乐频道",金鹰纪实
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227661/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="北京纪实科教" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/北京纪实科教.png" group-title="娱乐频道",北京纪实科教
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227617/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="武术世界" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/武术世界.png" group-title="娱乐频道",武术世界
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227708/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩篮球"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/睛彩篮球.png" group-title="娱乐频道",睛彩篮球
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227673/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩竞技" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/睛彩竞技.png" group-title="娱乐频道",睛彩竞技
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩青少" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/睛彩青少.png" group-title="娱乐频道",睛彩青少
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227587/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="睛彩广场舞"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/睛彩广场舞.png" group-title="娱乐频道",睛彩广场舞
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227590/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/文物宝库.png" group-title="娱乐频道",文物宝库
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227718/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/快乐垂钓.png" group-title="娱乐频道",快乐垂钓
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227632/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="梨园频道" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/梨园频道.png" group-title="娱乐频道",梨园频道
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="国学频道"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/国学频道.png" group-title="娱乐频道",国学频道
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227596//index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="书画频道"tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/书画频道.png" group-title="娱乐频道",书画频道
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227650/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="家庭理财" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/家庭理财.png" group-title="娱乐频道",家庭理财
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227596/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="山东教育" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/山东教育.png" group-title="娱乐频道",山东教育
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁卫视.png" group-title="辽宁频道",辽宁卫视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁影视剧" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁影视.png" group-title="辽宁频道",辽宁影视
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227651/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁公共" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁公共.png" group-title="辽宁频道",辽宁公共
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227658/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁都市" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁都市.png" group-title="辽宁频道",辽宁都市
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227639/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁经济" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁经济.png" group-title="辽宁频道",辽宁经济
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227666/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁体育休闲" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁体育.png" group-title="辽宁频道",辽宁体育
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227654/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁教育青少" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁青少.png" group-title="辽宁频道",辽宁青少
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227660/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁北方" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁北方.png" group-title="辽宁频道",辽宁北方
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227663/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁生活" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁生活.png" group-title="辽宁频道",辽宁生活
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227657/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="移动电视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/移动电视.png" group-title="辽宁频道",辽宁移动
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227664/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="新闻综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/沈阳新闻综合.png" group-title="辽宁频道",沈阳新闻综合
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227584/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="阜新教育" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/阜新教育.png" group-title="辽宁频道",阜新教育
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227662/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="阜新综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/阜新综合.png" group-title="辽宁频道",阜新综合
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227717/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="盘锦都市" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/盘锦都市.png" group-title="辽宁频道",盘锦都市
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227659/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="盘锦新闻综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/盘锦新闻综合.png" group-title="辽宁频道",盘锦新闻综合
+http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227751/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="抚顺综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/抚顺综合.png" group-title="辽宁频道",抚顺综合
+http://b.jun1985.cn:90/TVOD/fsfb.php?id=fszh
+#EXTINF:-1 tvg-id="1" tvg-name="抚顺教育" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/抚顺教育.png" group-title="辽宁频道",抚顺教育
+http://b.jun1985.cn:90/TVOD/fsfb.php?id=fsjy
+#EXTINF:-1 tvg-id="1" tvg-name="庄河综合" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/庄河综合.png" group-title="辽宁频道",庄河综合
+rtmp://zhtvzb.lnyun.com.cn/zhrm2/tvzb2?auth_key=1864483200-0-0-822416c7abee6df8a8210bca001fe29c
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",暮光之城:新月
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281154967/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",西虹市首富
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281351723/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",美国队长4
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639870/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",猎金游戏
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281678369/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",制暴:无限杀机
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281534678/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",人生开门红
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281713239/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",水饺皇后
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281765020/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",误判
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280818906/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",小小的我
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280820945/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",唐探1990
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281356130/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",射雕英雄传:侠之大者
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281241577/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",狮子王:木法沙传奇
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281118339/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",因果报应
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281133043/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",狐妖传说
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281056353/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",养蜂人
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281264759/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",笑傲江湖
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280861818/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",夏洛特烦恼
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280205251/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",逆行人生
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280179468/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",焚城
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281153292/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",猎魂人
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281273703/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",喜剧的阴谋
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281299069/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",草原上的火焰
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281283769/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",误杀3
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281184717/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",床前明月，咣！
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280928630/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",小丑2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280831521/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",外太空的莫扎特
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/276828638/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",满江红
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/277753847/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",刺猬
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280191532/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",爆款好人
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280347019/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",抓娃娃
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280224600/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",我本是高山
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/278808645/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",念念相忘
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/278263108/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",我经过风暴
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/278310065/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",阿凡达1
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281610196/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",阿凡达水之道
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280708922/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",封神第一部:朝歌风云
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/278850504/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",这么多年
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/277836849/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",长沙夜生活
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/277762682/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",检查风云
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/277828690/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",人生路不熟
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/277889247/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",纸画皮
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/279849512/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",神都密探
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/279854530/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",盗梦空间
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/275086363/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",星际穿越
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/273543872/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",速度与激情6
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281630234/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",速度与激情10
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281610865/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",变形金刚2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281605070/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",变形金刚4
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281630919/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",变形金刚5
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281604102/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",复仇者联盟
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281643339/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",钢铁侠1
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281604209/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",钢铁侠2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281658999/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",猩球崛起3
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281678905/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",碟中谍6
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281605488/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",X战警-黑凤凰
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281607034/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",侏罗纪公园
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281607312/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",普罗米修斯
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281607570/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",黑豹2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281608994/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",加勒比海盗5
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281604090/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",失控玩家
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281600729/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",掠食城市
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281601254/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",美女与野兽
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281602163/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",银河护卫队2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281610874/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",侠探杰克2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281630545/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",最后的莫西干人
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281611114/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",机械姬
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281630926/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",深海狂鲨
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281617881/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",神奇燕尾服
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281629810/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",义盖云天
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281638016/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",蚁人1
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281643333/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",蚁人2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281611380/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",蚁人3
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281662766/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",红海行动
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281602157/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",五路追杀令
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631293/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",虎胆龙威4
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281676860/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",哈利波特与魔法石
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631302/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",哈利波特与混血王子
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281637475/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",飓风营救2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281645028/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",终结者创世纪
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631436/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",白雪公主与猎人
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631494/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",我是间谍
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281633804/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",谍影重重
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281634684/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",爱丽丝梦游仙境2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281637119/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",德古拉元年
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281637165/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清电影" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清电影.png" group-title="高清电影",呆佬拜寿
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639451/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",哪吒:魔童降世
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/280952678/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",哪吒:魔童闹海
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281965600/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",西游记动画
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281633776/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",爱宠大机密
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636379/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",无敌破坏王
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281607619/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",疯狂动物城
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281607645/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",赛车总动员
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281676851/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",玩具总动员
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281605500/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",美食总动员
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631081/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",老雷斯的故事
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631084/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",冰雪奇缘
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631094/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",美女与野兽
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631268/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",皮卡丘
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639885/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",小黄人1
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281638540/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",小黄人2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281630225/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",极地特快
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631124/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",名侦探柯南
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631075/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",名侦探柯南2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631295/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",名侦探柯南3
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631598/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",公主与青蛙
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281634915/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",奥特曼
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631286/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="高清动漫" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/高清动漫.png" group-title="高清动漫",奥特曼2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281631292/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传1
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636265/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传2
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281637075/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传3
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632913/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传4
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632898/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传5
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632907/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传6
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632910/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传7
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639065/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传8
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281633696/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传9
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639086/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传10
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636298/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传11
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281637072/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传12
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281633687/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传13
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636271/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传14
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639074/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传15
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639083/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传16
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632889/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传17
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636262/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传18
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636292/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传19
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632895/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传20
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632892/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传21
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639077/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传22
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639092/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传23
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632901/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传24
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632925/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传25
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639071/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传26
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636289/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传27
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281633684/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传28
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636277/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传29
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636280/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传30
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636259/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传31
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636274/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传32
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636286/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传33
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632919/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传34
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639068/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传35
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632922/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传36
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639080/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传37
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639866/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传38
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639089/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传39
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281639869/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传40
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632916/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传41
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281632904/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传42
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636283/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/水浒传.png" group-title="水浒全集",水浒传43
+http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636268/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/重温经典.png" group-title="影视频道",重温经典
+http://b.jun1985.cn:90/php/cwjd.php
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/重温经典.png" group-title="影视频道",重温经典
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cwjd
+#EXTINF:-1 tvg-id="1" tvg-name="香港卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/香港卫视.png" group-title="卫视频道",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰中文.png" group-title="卫视频道",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰中文.png" group-title="卫视频道",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰中文.png" group-title="卫视频道",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰香港.png" group-title="卫视频道",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰香港.png" group-title="卫视频道",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰香港.png" group-title="卫视频道",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
