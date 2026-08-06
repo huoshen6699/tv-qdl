@@ -36,7 +36,11 @@ http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226869/index.m
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV5加.png" group-title="央视频道",CCTV5+
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV4K.png" group-title="央视频道",CCTV-4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8?servicetype=1&servicetype=3
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV16-4K.png" group-title="央视频道",CCTV16-4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8?servicetype=1&servicetype=3
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/CCTV16-4K.png" group-title="央视频道",CCTV16-4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="电视指南" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/电视指南.png" group-title="央视频道",电视指南
@@ -80,15 +84,27 @@ http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227712/index.m
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/深圳卫视4K.png" group-title="卫视频道",深圳卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227626/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8?servicetype=1&servicetype=3
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/湖南卫视4K.png" group-title="卫视频道",湖南卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/东方卫视4K.png" group-title="卫视频道",东方卫视4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8?servicetype=1&servicetype=3
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227542/index.m3u8?servicetype=1&servicetype=3
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/浙江卫视4K.png" group-title="卫视频道",浙江卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8?servicetype=1&servicetype=3
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/江苏卫视4K.png" group-title="卫视频道",江苏卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/山东卫视4K.png" group-title="卫视频道",山东卫视4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227621/index.m3u8?servicetype=1&servicetype=3
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227621/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/四川卫视4K.png" group-title="卫视频道",四川卫视4K
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227624/index.m3u8?servicetype=1&servicetype=3
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/四川卫视4K.png" group-title="卫视频道",四川卫视4K
 http://39.135.126.62/hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227624/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/辽宁卫视.png" group-title="卫视频道",辽宁卫视
