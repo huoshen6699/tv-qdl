@@ -634,3 +634,15 @@ http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636283/index.
 http://39.135.126.62/hwottcdn.ln.chinamobile.com/34/16/88888888/281636268/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/重温经典.png" group-title="影视频道",重温经典
 https://ott.lnitv.cn/CBN.php?id=30167
+#EXTINF:-1 tvg-id="1" tvg-name="中国电影频道" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/电影放映.png" group-title="影视频道",中国电影
+http://iptv.4666888.xyz/iptv2A.php?id=18
+#EXTINF:-1 tvg-id="1" tvg-name="MyTV" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/MyTV.png" group-title="测试频道",MyTV
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/TVBS新闻.png" group-title="测试频道",TVBS新闻
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-id="1" tvg-name="民视综艺" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/无.png" group-title="测试频道",民视综艺
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-id="1" tvg-name="无线翡翠" tvg-logo="https://gitee.com/yuexintv/aaa/raw/master/tb/无.png" group-title="测试频道",无线翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=28
+
+
