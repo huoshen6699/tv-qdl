@@ -3,7 +3,7 @@
   "sites": [
    {
       "key": "csp_xml_量子资源",
-      "name": "📦┃量子┃影视",
+      "name": "📦量子┃影视",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
