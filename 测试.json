@@ -52,18 +52,6 @@
 {
 "key":"南瓜","name":"📦南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
 },
-{
-      "key": "葫芦",
-      "name": "📦葫芦┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-      "ext": {
-        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
-        "key": "8R33VQSxzmCaHpEX",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-    },
           {
       "key": "分享农民",
       "name": "📦农民┃影视",
@@ -73,14 +61,7 @@
 "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
-        {
-      "key": "泥巴视频",
-      "name": "📦泥巴┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享泥巴.js"
-    },
-      {"key":"天天","name":"📦天天┃影视","type":3,"api":"csp_TTian","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l3888jig44gi291li"},    
+      {"key":"天天","name":"📦天天┃影视","type":3,"api":"csp_TTian","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {
       "key": "聚合短剧",
       "name": "🎬聚合┃短剧",
