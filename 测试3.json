@@ -1,0 +1,103 @@
+{
+  "spider": "https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RongjiLi_V2.6.2/jar/aowu.jar",
+  "sites": [
+   {
+      "key": "csp_xml_量子资源",
+      "name": "📦┃量子┃影视",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_非凡资源",
+      "name": "📦非凡┃影视",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+            "key": "py_金牌影视",
+            "name": "📦金牌┃影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
+{
+            "key": "爱剧",
+            "name": "📦爱剧┃影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+{
+            "key": "皮皮虾",
+            "name": "📦皮皮┃影视",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+{
+"key":"柠檬","name":"📦柠檬┃影视","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+},
+{
+"key":"南瓜","name":"📦南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+},
+ {
+            "key": "csp_XYQHikerNm",
+            "name": "📦在线┃影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 0,   "filterable": 0}, 
+{
+      "key": "4K电影网",
+      "name": "📦4K┃影视",
+      "type": 3,
+      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+{
+      "key": "葫芦",
+      "name": "📦葫芦┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+    },
+          {
+      "key": "分享农民",
+      "name": "📦农民┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":
+"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
+    },
+      {"key":"天天","name":"📦天天┃影视","type":3,"api":"csp_TTian","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{
+      "key": "聚合短剧",
+      "name": "🎬聚合┃短剧",
+      "type": 3,
+      "api": "https://iduo.us.ci/gt/leevi0709/one/main/py/短剧聚合.py"
+    }
+  ]
+}
