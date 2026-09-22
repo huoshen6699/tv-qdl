@@ -1,15 +1,6 @@
 {
   "spider": "https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RongjiLi_V2.6.2/jar/aowu.jar",
   "sites": [
-     {
-      "key": "柠檬",
-     "name": "🩸问鼎苍穹4k❤️萌",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "http://8.148.229.212:802/问鼎4kss3/jar/柠檬.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },  
    {
       "key": "csp_xml_量子资源",
       "name": "📦┃量子┃影视",
