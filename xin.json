@@ -6,17 +6,17 @@
             "key": "豆瓣",
             "name": "🔥豆瓣┃推荐",
             "type": 3,
-            "api": "https://codeberg.org/huoshen/AAA/raw/branch/main/lib/drpy2.min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://codeberg.org/huoshen/AAA/raw/branch/main/js/douban.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
         },
    {
             "key": "py_金牌影视",
             "name": "📦金牌┃影视",
             "type": 3,
-            "api": "https://codeberg.org/huoshen/AAA/src/branch/main/py/金牌.py",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -24,13 +24,6 @@
             "ext": {
                 "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
             }
-        },
-{
-            "key": "皮皮虾",
-            "name": "📦皮皮┃影视",
-            "type": 3,
-            "api": "https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py",
-            "ext": "http://43.248.117.123:4680"
         },
 {
 "key":"柠檬","name":"📦柠檬┃影视","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
