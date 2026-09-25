@@ -3,23 +3,23 @@
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	{
       "key": "YGFXZ",
-      "name": "连鹏专线",
+      "name": "💖分享本地",
       "type": 3,
       "api": "csp_Local",
-	"jar":"https://codeberg.org/huoshen/AAA/src/branch/main/jar/vox.jar",
+	"jar":"http://rihou.cc:88/jar/vox.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
       {
             "key": "豆瓣",
-            "name": "🔥豆瓣┃推荐",
+            "name": "🅱️分享豆瓣",
             "type": 3,
-            "api": "https://codeberg.org/huoshen/AAA/raw/branch/main/lib/drpy2.min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://codeberg.org/huoshen/AAA/raw/branch/main/js/douban.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
         },
    {
             "key": "py_金牌影视",
