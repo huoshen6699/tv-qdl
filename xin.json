@@ -1,10 +1,19 @@
 {
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"sites": [	
+"sites": [	{
+      "key": "YGFXZ",
+      "name": "连鹏专线",
+      "type": 3,
+      "api": "csp_Local",
+	"jar":"http://rihou.cc:88/jar/vox.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
       {
             "key": "豆瓣",
-            "name": "🅱️分享豆瓣",
+            "name": "🔥豆瓣┃推荐",
             "type": 3,
             "api": "https://codeberg.org/huoshen/AAA/raw/branch/main/lib/drpy2.min.js",
             "searchable": 0,
