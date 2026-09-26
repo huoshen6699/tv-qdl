@@ -1,71 +1,116 @@
 {
-//数据接口
-"adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"sites": [	
-      {
-            "key": "豆瓣",
-            "name": "🔥豆瓣┃推荐",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/分享douban.js"
-        },
-   {
-            "key": "py_金牌影视",
-            "name": "📦金牌┃影视",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-            }
-        },
-{
-"key":"柠檬","name":"📦柠檬┃影视","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-},
-{
-"key":"南瓜","name":"📦南瓜┃影视","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-},
-          {
-
+  "sites": [
+    {
+      "key": "lzzy",
+      "name": "📦量子┃影视",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "恐怖片",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "csp_xml_非凡资源",
+      "name": "📦非凡┃影视",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "恐怖片",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "py_金牌影视",
+      "name": "📦金牌┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "柠檬",
+      "name": "📦柠檬┃影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "南瓜",
+      "name": "📦南瓜┃影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+    {
       "key": "分享农民",
       "name": "📦农民┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":
-"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
-      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
-      {"key":"天天","name":"📦天天┃影视","type":3,"api":"csp_TTian","playerType":2,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l3888jig44gi291li"},
-   {
+    {
+      "key": "天天",
+      "name": "📦天天┃影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
       "key": "高清点播",
       "name": "📦高清┃影视",
       "type": 3,
       "api": "https://pan.29o.cn/down.php/323eba3848f29250c407a014113c784a.py"
     },
- {
+    {
       "key": "看剧AI",
       "name": "📦看剧┃影视",
       "type": 3,
       "api": "https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py"
     },
-{
+    {
       "key": "一个影视",
       "name": "📦一个┃影视",
       "type": 3,
       "api": "https://pan.szfx.top/down.php/a248e40581382b39bd1429fe3edfc19a.js"
-    },
-{
-      "key": "藤藤",
-      "name":"📦藤藤┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "bl",
@@ -75,11 +120,11 @@
     },
     {
       "key": "剧下饭",
-      "name":"📦下饭┃影视",
+      "name": "📦下饭┃影视",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py"
     },
-{
+    {
       "key": "多多",
       "name": "📦多多┃影视",
       "type": 3,
