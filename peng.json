@@ -1,0 +1,453 @@
+{
+  "spider": "https://codeberg.org/huoshen/kou/raw/branch/main/jar/aowu.jar",
+  "sites": [
+    {
+      "name": "🏆连鹏┃专属",
+      "key": "Douban",
+      "type": 3,
+      "api": "csp_DoubanAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Douban"
+    },
+    {
+      "key": "柠檬",
+      "name": "⭐柠檬┃秒播",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "小苹果.py",
+      "name": "⭐苹果┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/分享者小苹果.py"
+    },
+    {
+      "key": "csp_XYQHikerNm",
+      "name": "⭐在线┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/八戒影视.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "蓝鹰",
+      "name": "⭐蓝鹰┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/lib/get.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "http://103.217.190.91:5566",
+        "key": "hagYExMdMkeWfemK",
+        "Iv": "hagYExMdMkeWfemK",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "橘汁",
+      "name": "⭐橘汁┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/橘汁.py"
+    },
+    {
+      "key": "咕噜",
+      "name": "⭐咕噜┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/分享咕噜.py"
+    },
+    {
+      "key": "追剧达人",
+      "name": "⭐达人┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/追剧达人.py"
+    },
+    {
+      "key": "咸鱼影视",
+      "name": "⭐咸鱼┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/咸鱼影视.py"
+    },
+    {
+      "key": "看客TV",
+      "name": "⭐看客┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/看客TV.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "应该可以",
+      "name": "⭐4 K┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/4K影视.py"
+    },
+    {
+      "key": "xcm",
+      "name": "⭐熊大┃秒播",
+      "type": 4,
+      "api": "http://sy.xuntuyun.cn:20394/ctyx.php/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "大马猴",
+      "name": "⭐大马┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/大马猴.py"
+    },
+    {
+      "key": "开端影视",
+      "name": "⭐开端┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/开端影视.py"
+    },
+    {
+      "key": "VS影院",
+      "name": "⭐V S┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/VS影院.py"
+    },
+    {
+      "key": "剧下饭",
+      "name": "⭐下饭┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/ca87da089f336f8e507562ecfe213e25.py"
+    },
+    {
+      "key": "高清点播",
+      "name": "⭐高清┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/高清点播.py",
+      "changeable": 0
+    },
+    {
+      "key": "草莓影视",
+      "name": "⭐草莓┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/草莓影视.py",
+      "changeable": 0
+    },
+    {
+      "key": "py_duoduo",
+      "name": "⭐多多┃秒播",
+      "type": 3,
+      "api": "https://clun.top/py/duoduo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长影视",
+      "name": "⭐厂长┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/厂长影视.py"
+    },
+    {
+      "key": "GZ",
+      "name": "⭐瓜子┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/瓜子APP.py"
+    },
+    {
+      "key": "电影侠",
+      "name": "⭐影侠┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/电影侠.py"
+    },
+    {
+      "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848346373787648?token=banye666",
+      "filterable": 0,
+      "key": "spider_2097848346373787648",
+      "name": "⭐热播┃秒播",
+      "searchable": 1,
+      "type": 4
+    },
+    {
+      "key": "nangua",
+      "name": "⭐南瓜┃秒播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "⭐蝴蝶┃秒播",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"
+    },
+    {
+      "key": "半日99",
+      "name": "⭐半日┃秒播",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/js/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "剧圈",
+      "name": "⭐剧圈┃秒播",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/js/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "⭐魔方┃秒播",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/js/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://www.douy32mf.top|1234567887654321|V119"
+    },
+    {
+      "key": "王子",
+      "name": "⭐王子┃秒播",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/js/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6|V119|okhttp/3.10.0"
+    },
+    {
+      "key": "布布",
+      "name": "⭐布布┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/254f42dd986cccf7bec7c7f069ef5346.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "葫芦",
+      "name": "⭐葫芦┃秒播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "py_金牌影视",
+      "name": "⭐金牌┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/金牌.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.lwdys.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "分享农民",
+      "name": "⭐农民┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/jar/xbpq (3).jar",
+      "ext": "https://codeberg.org/huoshen/kou/raw/branch/main/json/分享农民.json"
+    },
+    {
+      "key": "奇异果",
+      "name": "⭐异果┃秒播",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url="
+    },
+    {
+      "key": "采集集合",
+      "name": "⭐合集┃秒播",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "1",
+      "changeable": 1
+    },
+    {
+      "key": "多多",
+      "name": "⭐多多┃秒播",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/dd.py"
+    },
+    {
+      "key": "天天",
+      "name": "⭐天天┃影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
+      "key": "看剧AI",
+      "name": "⭐看剧┃影视",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/f05fb3db58ed6eeb41e2e850f4b09115.py"
+    },
+    {
+      "key": "一个影视",
+      "name": "⭐一个┃影视",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/js/a248e40581382b39bd1429fe3edfc19a.js"
+    },
+    {
+      "key": "bl",
+      "name": "⭐小哩┃影视",
+      "type": 3,
+      "api": "https://codeberg.org/huoshen/kou/raw/branch/main/py/bl.py"
+    },
+    {
+      "name": "⭐热播┃秒播",
+      "key": "Rbys",
+      "type": 3,
+      "api": "csp_RbysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Rbys"
+    },
+    {
+      "name": "❤夏天┃秒播",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "NewGrV2"
+    },
+    {
+      "name": "❤韩剧┃秒播",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "❤瓜子┃秒播",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Guazi"
+    },
+    {
+      "name": "❤师兄┃秒播",
+      "key": "AppV6Dxs",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Dsx"
+    },
+    {
+      "name": "❤特狗┃秒播",
+      "key": "AppV6Tg",
+      "type": 3,
+      "api": "csp_AppV6Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV6Tg"
+    },
+    {
+      "name": "❤金牌┃秒播",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "❤热播┃秒播",
+      "key": "Rbys",
+      "type": 3,
+      "api": "csp_RbysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Rbys"
+    },
+    {
+      "name": "❤①线┃秒播",
+      "key": "AppV7Fz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "❤⑤线┃秒播",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "key": "TangDou_Spider",
+      "name": "🥇糖豆┃健身",
+      "type": 3,
+      "api": "csp_AppTd",
+      "jar": "https://codeberg.org/huoshen/kou/raw/branch/main/js/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    }
+  ]
+}
